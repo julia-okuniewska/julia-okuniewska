@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @julia-okuniewska, student of Gdansk University of Technology :poland:
 - 👀 I’m interested in Software Developement (web/scripts) and my main programming language is Python :snake: 
-- 🌱 I’m currently learning Golang and Cloud Native Applications Architecture :cloud:
+- 🌱 I’m currently learning Cloud Native Applications Architecture with Google Cloud Platform :cloud: 
 - 📫 You can reach me at julia.okuniewska1@gmail.com
