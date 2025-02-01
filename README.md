@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @julia-okuniewska, (still) a Student of Gdansk University of Technology :poland: & full-time @Intel
-- 👀 I’m interested in Cloud Software development & DevOps and my main programming language is Golang
-- I use Python as side-tool & bash scripting & Ansible & CI/CD with GitHub Actions and Jenkins
-- 📫 You can reach me at julia.okuniewska1@gmail.com
+- off-work account
+- Cloud Software Development in Golang + Kubernetes
+- side projects in Adruino/esp32, robotics stuff
+- work: full-time @Intel as @jokuniew
