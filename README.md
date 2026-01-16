@@ -1,4 +1,4 @@
 - off-work account
-- Cloud Software Development in Golang + Kubernetes
-- side projects in Adruino/esp32, robotics stuff
-- work: full-time @Intel as @jokuniew
+- Cloud Software Dev in Golang + Kubernetes
+- side projects in Adruino/esp32, robotics stuff, little webapps
+- work: full-time @Dynatrace as @jokuniew, previously @Intel
